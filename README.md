@@ -55,7 +55,7 @@ This repository provides all the essential pieces:
 
 ## Running a Test Drive
 
-We have included an `example_data` directory to test the pipeline right out of the box and verify all your dependencies are correctly set up.
+I have included an `example_data` directory to test the pipeline right out of the box and verify all your dependencies are correctly set up.
 
 To test the functionality locally:
 
