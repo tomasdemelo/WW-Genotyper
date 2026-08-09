@@ -46,7 +46,7 @@ This repository provides all the essential pieces:
 - `WW_Genotyper-v11.R`: The main analysis script for Mac/Linux environments.
 - `WW_Genotyper-v11_Windows.R`: Modified paths/execution tailored for Windows/WSL environments.
 - `score_mutation.py`: The ESM-2 triage integration.
-- `bash_scripts/`: Contains the preprocessing bash scripts (`FASTA-seq_condenser.sh`, `new-new_EVminimap2.sh`, `new-new_NVminimap2.sh`) required to process raw FASTQs into `_combined.fasta` sequences.
+- `bash_scripts/`: Contains the preprocessing bash scripts (`FASTA-seq_condenser.sh`, `EVminimap2.sh`, `NVminimap2.sh`) required to process raw FASTQs into `_combined.fasta` sequences.
 - `references/`: Essential databases, including reference sequences for both EV and NV.
 - `example_data/`: Contains a test dataset (`EV/Ajax/` and `EV/Barrie/`) to quickly verify the pipeline.
 - `RT-qPCR_data.xlsx`: A template for formatting your longitudinal viral load tracking.
